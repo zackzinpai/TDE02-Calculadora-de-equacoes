@@ -1,4 +1,5 @@
 README - Projeto "Calculadora de Equações em C"
+
 Este projeto consiste no desenvolvimento de um algoritmo de linha de comando em linguagem C, capaz de resolver equações de 1º e 2º grau. O objetivo principal do sistema é aplicar conhecimentos práticos adquiridos no curso de Análise e Desenvolvimento de Sistemas , envolvendo lógica de programação, manipulação avançada de strings e a aplicação de estruturas de dados para resolver um problema matemático real.
 
 
